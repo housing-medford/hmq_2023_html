@@ -5,3 +5,9 @@ div.QRESPONSEBLOCK1 {
 div.QRESPONSEBLOCK0 {
     background-color: #FFFFFF;
 }
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 6in;
+}
